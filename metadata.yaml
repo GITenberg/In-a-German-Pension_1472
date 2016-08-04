@@ -1,0 +1,40 @@
+_repo: In-a-German-Pension_1472
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mansfield, Katherine
+    aliases:
+    - Murry, Kathleen Beauchamp
+    - Beauchamp, Kathleen M. (Kathleen Mansfield)
+    - Bowden, Kathleen
+    - Berry, Matilda
+    birthdate: 1888
+    deathdate: 1923
+    gutenberg_agent_id: '631'
+    url: http://www.gutenberg.org/2009/agents/631
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_Mansfield
+description: 'Indhold: Murry ; Germans at meat ; The Baron ; The sister of the Baroness
+  ; Frau Fischer ; Frau Brechenmacher attends a wedding ; The modern soul ; At Lehmann''s
+  ; The Luft Bad ; A birthday ; The child-who-was-tired ; The advanced lady ; The
+  swing of the pendulum ; A blaze'
+gutenberg_bookshelf:
+- Germany
+- New Zealand
+gutenberg_issued: '1998-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1472'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Social life and customs -- Fiction'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Germans at meat -- The baron -- The sister of the baroness -- Frau
+  Fischer -- Frau Brechenmacher attends a wedding -- The modern soul -- At Lehmann's
+  -- The Luft Bad -- A birthday -- The child-who-was-tired -- The advanced lady --
+  The swing of the pendulum -- A blaze.
+title: In a German Pension
+url: http://www.gutenberg.org/ebooks/1472
