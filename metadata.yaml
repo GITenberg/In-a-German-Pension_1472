@@ -1,5 +1,8 @@
 _repo: In-a-German-Pension_1472
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mansfield, Katherine
@@ -17,6 +20,8 @@ description: 'Indhold: Murry ; Germans at meat ; The Baron ; The sister of the B
   ; Frau Fischer ; Frau Brechenmacher attends a wedding ; The modern soul ; At Lehmann''s
   ; The Luft Bad ; A birthday ; The child-who-was-tired ; The advanced lady ; The
   swing of the pendulum ; A blaze'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1472#In-a-German-Pension
 gutenberg_bookshelf:
 - Germany
 - New Zealand
